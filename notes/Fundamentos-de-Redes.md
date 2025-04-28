@@ -34,7 +34,7 @@ modified: '2025-04-28T05:16:02.489Z'
 
 * La red de una escuela: Computadoras entre si,servidores y switches conectados para manejar diferentes redes.
 
-![EJEMPLO DE UNA RED](@attachment/Clipboard_2025-04-28-00-04-45.png)
+![EJEMPLO DE UNA RED](https://github.com/DARCKBLACK06/Apuntes-Cursos/blob/main/attachments/Clipboard_2025-04-28-00-04-45.png)
 
 ## Elementos de una red.
 
