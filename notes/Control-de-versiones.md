@@ -1,3 +1,10 @@
+---
+attachments: [Clipboard_2025-04-26-01-54-28.png]
+title: Control de versiones (Git)
+created: '2025-04-26T06:46:25.843Z'
+modified: '2025-04-26T07:07:23.516Z'
+---
+
 # Control de versiones (Git)
 
 ## Que es un controlador de versiones?
@@ -17,6 +24,7 @@
 ### Control de versiones centralizado
 
 ### Control de versiones distribuido
+
 
 
 
